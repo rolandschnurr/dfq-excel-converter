@@ -1,4 +1,4 @@
-# app_fallback.py - Fallback ohne aqdefreader
+# app.py - Fallback ohne aqdefreader
 import streamlit as st
 import pandas as pd
 import io
